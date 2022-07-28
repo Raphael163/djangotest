@@ -1,2 +1,2 @@
 # djangotest
-test?test
+test
